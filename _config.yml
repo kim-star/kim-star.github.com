@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kimseonho"
+  name             : #"kimseonho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "You can mark me in your heart."
   #location         : "Somewhere"
